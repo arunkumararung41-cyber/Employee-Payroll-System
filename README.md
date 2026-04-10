@@ -108,8 +108,8 @@ Employee[name= akshit , Id= 1, salary = 90000.0]
 ## 👨‍💻 Author
 
 **Akshit Singh**
-📧 Email: [akshitrnq@gmail.com]
-🔗 LinkedIn: [https://www.linkedin.com/in/akshit-singh-a70875344/](https://www.linkedin.com/in/akshit-singh-a70875344/)
+📧 Email: [arunkumararung41@gmail.com]
+🔗 LinkedIn: [https://www.linkedin.com/in/arun-kumar-g-b00511280/?]
 
 ---
 
