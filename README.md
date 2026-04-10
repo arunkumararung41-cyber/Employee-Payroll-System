@@ -77,13 +77,13 @@ Employeeoopsproject/
 
 ```
 initial employee details:
-Employee[name= akshit , Id= 1, salary = 90000.0]
-Employee[name= harsh , Id= 2, salary = 100000.0]
+Employee[name= arun , Id= 1, salary = 90000.0]
+Employee[name= sanjay , Id= 2, salary = 100000.0]
 
 Remove employee
 
 Remaining employee detail are
-Employee[name= akshit , Id= 1, salary = 90000.0]
+Employee[name= arun , Id= 1, salary = 90000.0]
 ```
 
 ---
@@ -107,7 +107,7 @@ Employee[name= akshit , Id= 1, salary = 90000.0]
 
 ## 👨‍💻 Author
 
-**Akshit Singh**
+**Arun kumar G**
 📧 Email: [arunkumararung41@gmail.com]
 🔗 LinkedIn: [https://www.linkedin.com/in/arun-kumar-g-b00511280/?]
 
